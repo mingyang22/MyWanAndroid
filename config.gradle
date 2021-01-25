@@ -1,0 +1,28 @@
+ext {
+    kotlin_version = "1.4.10"
+    gradle_version = "4.0.1"
+
+    compileSdkVersion = 30
+    buildToolsVersion = "30.0.1"
+
+    coroutinesVersion = "1.3.9"
+    lifecycleVersion = "2.2.0"
+    roomVersion = "2.2.6"
+
+    okHttpVersion = "4.9.0"
+    retrofitVersion = "2.9.0"
+    gsonVersion = "2.9.0"
+    PersistentCookieJarVersion = "v1.0.1"
+
+    brvhaVersion = "3.0.4"
+
+    liveEventBusVersion = "1.7.2"
+    agentWebVersion = "4.1.4"
+
+    flowLayoutVersion = "1.1.2"
+    PersistentCookieJarVersion = "v1.0.1"
+
+    bannerVersion = "2.1.0"
+    glideVersion = "4.11.0"
+
+}

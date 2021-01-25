@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="oh_backgroundColor" format="color" />
+    <attr name="oh_borderColor" format="color" />
+    <attr name="oh_borderWidth" format="dimension" />
+    <attr name="oh_isRadiusAdjustBounds" format="boolean" />
+    <attr name="oh_radius" format="dimension" />
+    <attr name="oh_radiusTopLeft" format="dimension" />
+    <attr name="oh_radiusTopRight" format="dimension" />
+    <attr name="oh_radiusBottomLeft" format="dimension" />
+    <attr name="oh_radiusBottomRight" format="dimension" />
+
+    <declare-styleable name="OhRoundView">
+        <attr name="oh_backgroundColor" />
+        <attr name="oh_borderColor" />
+        <attr name="oh_borderWidth" />
+        <attr name="oh_isRadiusAdjustBounds" />
+        <attr name="oh_radius" />
+        <attr name="oh_radiusTopLeft" />
+        <attr name="oh_radiusTopRight" />
+        <attr name="oh_radiusBottomLeft" />
+        <attr name="oh_radiusBottomRight" />
+    </declare-styleable>
+
+    <declare-styleable name="OhRoundLinearLayout">
+        <attr name="oh_backgroundColor" />
+        <attr name="oh_borderColor" />
+        <attr name="oh_borderWidth" />
+        <attr name="oh_isRadiusAdjustBounds" />
+        <attr name="oh_radius" />
+        <attr name="oh_radiusTopLeft" />
+        <attr name="oh_radiusTopRight" />
+        <attr name="oh_radiusBottomLeft" />
+        <attr name="oh_radiusBottomRight" />
+    </declare-styleable>
+
+    <declare-styleable name="OhRoundTextView">
+        <attr name="oh_backgroundColor" />
+        <attr name="oh_borderColor" />
+        <attr name="oh_borderWidth" />
+        <attr name="oh_isRadiusAdjustBounds" />
+        <attr name="oh_radius" />
+        <attr name="oh_radiusTopLeft" />
+        <attr name="oh_radiusTopRight" />
+        <attr name="oh_radiusBottomLeft" />
+        <attr name="oh_radiusBottomRight" />
+    </declare-styleable>
+
+    <declare-styleable name="OhRoundConstraintLayout">
+        <attr name="oh_backgroundColor" />
+        <attr name="oh_borderColor" />
+        <attr name="oh_borderWidth" />
+        <attr name="oh_isRadiusAdjustBounds" />
+        <attr name="oh_radius" />
+        <attr name="oh_radiusTopLeft" />
+        <attr name="oh_radiusTopRight" />
+        <attr name="oh_radiusBottomLeft" />
+        <attr name="oh_radiusBottomRight" />
+    </declare-styleable>
+
+
+</resources>
